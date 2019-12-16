@@ -22,15 +22,25 @@ Data use : 房價資訊
     -corr : 相關性分析
 
 2.matplotlib
+  
   DataFrame+matplotlib
+    
     -plot()
+    
       kind : 圖型種類
+      
       y : 對應種類y軸資料
+      
       figsize=(10,6) : 圖形大小
+      
       fontsize=14 : 字體大小
+      
       title='各鄉鎮資料筆數' : 圖片名稱
+      
       返回ax : 可用於設置圖片其他資訊
 
 3.seaborn
+  
   seaborn + matplotlib
+  
   -heatmap : 熱力圖
