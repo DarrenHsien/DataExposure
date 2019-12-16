@@ -12,6 +12,7 @@ Data use : 房價資訊
     -loc : argv:(row,columnName)
     -dataframe資料篩選控制
     -corr : 相關性分析
+
 2.matplotlib
   DataFrame+matplotlib
     -plot()
@@ -21,6 +22,7 @@ Data use : 房價資訊
       fontsize=14 : 字體大小
       title='各鄉鎮資料筆數' : 圖片名稱
       返回ax : 可用於設置圖片其他資訊
+
 3.seaborn
   seaborn + matplotlib
   -heatmap : 熱力圖
